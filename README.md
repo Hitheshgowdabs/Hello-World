@@ -1,2 +1,1 @@
-# Hello-World
-This my first github repsitory
+Git is a version control system
